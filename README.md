@@ -14,13 +14,13 @@
 
 ## ✨ Функционал
 
-✅ Регистрация и вход через Supabase Authentication
-✅ Онлайн-статус пользователей в реальном времени
-✅ Push-уведомления через NotificationService
-✅ Поддержка Material 3 (M3)
-✅ Две темы интерфейса: светлая и тёмная
-✅ Адаптивный и современный дизайн
-✅ Логика авторизации и чатов разделена по слоям (чистая архитектура)
+* ✅ Регистрация и вход через Supabase Authentication
+* ✅ Онлайн-статус пользователей в реальном времени
+* ✅ Push-уведомления через NotificationService
+* ✅ Поддержка Material 3 (M3)
+* ✅ Две темы интерфейса: светлая и тёмная
+* ✅ Адаптивный и современный дизайн
+* ✅ Логика авторизации и чатов разделена по слоям (чистая архитектура)
 
 ## 🛠️ Стек технологий
 
@@ -33,15 +33,15 @@
 ## 🗂️ Структура проекта
 
 lib/
-├── main.dart                # Точка входа
-├── supabase_config.dart     # Конфигурация Supabase
-├── screens/
-│   ├── auth_screen.dart     # Экран авторизации
-│   └── chat_list_screen.dart # Список чатов
-├── services/
-│   ├── auth_service.dart    # Авторизация
-│   ├── presence_service.dart# Онлайн-статус
-│   └── notification_service.dart # Уведомления
+* ├── main.dart                # Точка входа
+* ├── supabase_config.dart     # Конфигурация Supabase
+* ├── screens/
+* │   ├── auth_screen.dart     # Экран авторизации
+* │   └── chat_list_screen.dart # Список чатов
+* ├── services/
+* │   ├── auth_service.dart    # Авторизация
+* │   ├── presence_service.dart# Онлайн-статус
+* │   └── notification_service.dart # Уведомления
 
 
 ## 🧠 Что изучаешь с этим проектом
@@ -54,6 +54,6 @@ lib/
 
 ## 🧑‍💻 Автор
 * Фарзод Сомони
-*📍 Таджикистан, г. Душанбе 
+* 📍 Таджикистан, г. Душанбе 
 * 💬 Flutter Developer | Building modern mobile apps
 * 🌐 [Твой GitHub профиль](https://github.com/somoni69)

@@ -9,7 +9,7 @@
 
 | Список чатов                    | Чат                           | Профиль                       |
 | ------------------------------- | ----------------------------- | ----------------------------- |
-| ![Chat List]![photo_2025-10-04_14-27-54](https://github.com/user-attachments/assets/7f078540-1c37-4ec7-8810-a2678bf1e203) | ![photo_2025-10-04_14-27-56](https://github.com/user-attachments/assets/0e9c9dd7-b326-432f-8afd-9f852bada2a5) | ![photo_2025-10-04_14-27-57](https://github.com/user-attachments/assets/a468b4f9-c6cd-4993-bf03-714bb2b00365) |
+| ![photo_2025-10-04_14-27-54](https://github.com/user-attachments/assets/7f078540-1c37-4ec7-8810-a2678bf1e203) | ![photo_2025-10-04_14-27-56](https://github.com/user-attachments/assets/0e9c9dd7-b326-432f-8afd-9f852bada2a5) | ![photo_2025-10-04_14-27-57](https://github.com/user-attachments/assets/a468b4f9-c6cd-4993-bf03-714bb2b00365) |
 
 
 ## ✨ Функционал

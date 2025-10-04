@@ -9,7 +9,7 @@
 
 | Список чатов | Экран чата | Профиль |
 | :---: | :---: | :---: |
-| ![Chat List](ПУТЬ_К_СКРИНШОТУ_1.png) | ![Chat Screen](ПУТЬ_К_СКРИНШОТУ_2.png) | ![Profile Screen](ПУТЬ_К_СКРИНШОТУ_3.png) |
+| ![Chat List]("C:\Users\developer\Downloads\Telegram Desktop\photo_2025-10-04_14-27-54.jpg") | ![Chat Screen]("C:\Users\developer\Downloads\Telegram Desktop\photo_2025-10-04_14-27-56.jpg") | ![Profile Screen](ПУТЬ_К_СКРИНШОТУ_3.png) |
 
 
 ## ✨ Функционал

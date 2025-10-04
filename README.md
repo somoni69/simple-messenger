@@ -30,20 +30,6 @@
 * Provider / Riverpod (по необходимости)
 * MVC / Clean архитектура
 
-## 🗂️ Структура проекта
-
-lib/
-* ├── main.dart                # Точка входа
-* ├── supabase_config.dart     # Конфигурация Supabase
-* ├── screens/
-* │   ├── auth_screen.dart     # Экран авторизации
-* │   └── chat_list_screen.dart # Список чатов
-* ├── services/
-* │   ├── auth_service.dart    # Авторизация
-* │   ├── presence_service.dart# Онлайн-статус
-* │   └── notification_service.dart # Уведомления
-
-
 ## 🧠 Что изучаешь с этим проектом
 
 * Работа с Supabase Auth & Database
@@ -57,3 +43,19 @@ lib/
 * 📍 Таджикистан, г. Душанбе 
 * 💬 Flutter Developer | Building modern mobile apps
 * 🌐 [Твой GitHub профиль](https://github.com/somoni69)
+
+## 🗂️ Структура проекта
+
+```plaintext
+lib/
+ ├── main.dart                # Точка входа
+ ├── supabase_config.dart     # Конфигурация Supabase
+ ├── screens/
+ │   ├── auth_screen.dart     # Экран авторизации
+ │   └── chat_list_screen.dart # Список чатов
+ ├── services/
+ │   ├── auth_service.dart    # Авторизация
+ │   ├── presence_service.dart# Онлайн-статус
+ │   └── notification_service.dart # Уведомления
+
+

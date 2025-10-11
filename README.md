@@ -44,10 +44,10 @@
 * 💬 Flutter Developer | Building modern mobile apps
 * 🌐 [Твой GitHub профиль](https://github.com/somoni69)
 
+## 🎬 Демонстрация
 
-## Демонстрация 
+![Демо Taj Messenger](file:///C:/Users/developer/Downloads/Telegram%20Desktop/animation.gif.mp4)
 
-[![Нажмите, чтобы посмотреть видео]](file:///C:/Users/developer/Downloads/Telegram%20Desktop/video_2025-10-11_22-30-42.mp4)
 
 ## 🗂️ Структура проекта
 
